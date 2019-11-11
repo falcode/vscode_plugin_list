@@ -1,4 +1,3 @@
-# vscode_plugin_list
 <h1>VSCode Plugin List</h1>
 
 <p>Basic:</p>
