@@ -6,6 +6,7 @@
   <li>Bracket Pair Colorizer</li>
   <li>Auto Rename Tag</li>
   <li>TODO Highlight</li>
+  <li>Todo Tree</li>
   <li>vscode-icons</li>
   <li>Regex Previewer</li>
   <li>Git Blame</li>
