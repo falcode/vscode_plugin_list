@@ -1,8 +1,10 @@
 <h1>VSCode Plugin List</h1>
 
-<p>Basic:</p>
+<p><b>Basic</b>:</p>
 <ul>
+  <li>Beautify</li>
   <li>Peacock</li>
+  <li>indent-rainbow</li>
   <li>Bracket Pair Colorizer</li>
   <li>Auto Rename Tag</li>
   <li>TODO Highlight</li>
@@ -12,13 +14,18 @@
   <li>Git Blame</li>
 </ul>
 
-<p>CSS:</p>
+<p><b>CSS</b>:</p>
 <ul>
   <li>CSS Peek</li>
 </ul>
 
-<p>JavaScript:</p>
+<p><b>JavaScript</b>:</p>
 <ul>
-  <li></li>
+  <li>Quokka.js</li>
+  <li>Document This</li>
+  <li>ESLint</li>
 </ul>
-<p>Angular</p>
+<p><b>Angular</b></p>
+<ul>
+  <li>Angular Snippets (Version 8)</li>
+</ul>
